@@ -1,6 +1,6 @@
 ## 📚 **Hi there!**
 
-This is my journey learning **Web Development**, including:
+This is my journey learning **Web Development** and **Dev Ops**, including:
 
 ### 🖥️ **Frontend**
 - **HTML**, **CSS**, and *Tailwind*
@@ -18,3 +18,9 @@ This is my journey learning **Web Development**, including:
 
 ### 🔗 **MERN Stack**
 - Full-stack apps using **MongoDB**, **Express**, **React**, and **Node.js**
+
+### 🖥️ **Dev Ops**
+- **Docker**
+
+### 💾 **Advanced Concepts**
+- **Redis**
